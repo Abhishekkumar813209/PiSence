@@ -1,0 +1,17 @@
+th{
+    /* border:2px solid green; */
+    font-size:2rem;
+}
+
+td{
+    text-align: center;
+    /* border:2px solid green; */
+}
+
+
+.an{
+    /* border:5px solid blue; */
+    padding:auto;
+    margin:auto;
+    text-align: center;
+}
