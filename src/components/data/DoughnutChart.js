@@ -26,7 +26,7 @@ ChartJS.register(
 
 export const PieChart = ()=>{
     const data={
-        labels:['absent','present'],
+        labels:['Bad','Good'],
         datasets:[
             {
                 label:'Attendance',
